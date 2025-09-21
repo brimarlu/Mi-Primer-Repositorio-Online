@@ -6,3 +6,5 @@ Esto lo he añadido para poder mostrar como hacer un commit desde Github
 Ahora he añadido otra línea para demostrar cómo funciona fetch
 
 He añadido otra línea para demostrar como funciona pull
+
+Edito esto para probar quee no puedo hacer push sin el pull
